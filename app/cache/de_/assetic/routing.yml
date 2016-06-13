@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: 'C:\wamp\www\Projets_MVC_Free_Ads\app/config/routing_dev.yml'
