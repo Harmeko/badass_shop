@@ -1,0 +1,7 @@
+parameters:
+#    bi_platform.example.class: BI\PlatformBundle\Example
+
+services:
+#    bi_platform.example:
+#        class: %bi_platform.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

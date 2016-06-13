@@ -1,0 +1,4 @@
+bi_platform:
+    resource: "@BIPlatformBundle/Resources/config/routing.yml"
+    prefix:   /
+
